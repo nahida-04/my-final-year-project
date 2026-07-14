@@ -1,0 +1,170 @@
+id,title,language,category,image,buy_link
+
+1,A P J Abdul Kalam,Hindi,Biography,bookstore/hindi/biography/abdul_kalam.jpg,https://www.amazon.in/s?k=abdul+kalam
+2,B R Ambedkar,Hindi,Biography,bookstore/hindi/biography/ambedkar.jpg,https://www.amazon.in/s?k=ambedkar
+3,Bankim Chandra Chattopadhyay,Hindi,Biography,bookstore/hindi/biography/bankim_chandra.jpg,https://www.amazon.in/s?k=bankim+chandra
+4,Bhagat Singh,Hindi,Biography,bookstore/hindi/biography/bhagat_singh.jpg,https://www.amazon.in/s?k=bhagat+singh
+5,C V Raman,Hindi,Biography,bookstore/hindi/biography/cv_raman.jpg,https://www.amazon.in/s?k=cv+raman
+6,Homi Bhabha,Hindi,Biography,bookstore/hindi/biography/homi_bhabha.jpg,https://www.amazon.in/s?k=homi+bhabha
+7,Indira Gandhi,Hindi,Biography,bookstore/hindi/biography/indira_gandhi.jpg,https://www.amazon.in/s?k=indira+gandhi
+8,Jagadish Chandra Bose,Hindi,Biography,bookstore/hindi/biography/jagdish_bose.jpg,https://www.amazon.in/s?k=jagdish+chandra+bose
+9,Kalpana Chawla,Hindi,Biography,bookstore/hindi/biography/kalpana_chawla.jpg,https://www.amazon.in/s?k=kalpana+chawla
+10,Kazi Nazrul Islam,Hindi,Biography,bookstore/hindi/biography/kazi_nazrul.jpg,https://www.amazon.in/s?k=kazi+nazrul
+11,Mahatma Gandhi,Hindi,Biography,bookstore/hindi/biography/mahatma_gandhi.jpg,https://www.amazon.in/s?k=mahatma+gandhi
+12,Rabindranath Tagore,Hindi,Biography,bookstore/hindi/biography/rabindranath_tagore.jpg,https://www.amazon.in/s?k=rabindranath+tagore
+13,Rani Lakshmibai,Hindi,Biography,bookstore/hindi/biography/rani_lakshmibai.jpg,https://www.amazon.in/s?k=rani+lakshmibai
+14,Sardar Patel,Hindi,Biography,bookstore/hindi/biography/sardar_patel.jpg,https://www.amazon.in/s?k=sardar+patel
+15,Subhas Chandra Bose,Hindi,Biography,bookstore/hindi/biography/subhas_bose.jpg,https://www.amazon.in/s?k=subhas+chandra+bose
+16,Swami Vivekananda,Hindi,Biography,bookstore/hindi/biography/vivekananda.jpg,https://www.amazon.in/s?k=swami+vivekananda
+17,Mother Teresa,Hindi,Biography,bookstore/hindi/biography/mother_teresa.jpg,https://www.amazon.in/s?k=mother+teresa
+
+18,Godaan,Hindi,Fiction,bookstore/hindi/fiction/godaan.jpg,https://www.amazon.in/s?k=godaan
+19,Gaban,Hindi,Fiction,bookstore/hindi/fiction/gaban.jpg,https://www.amazon.in/s?k=gaban
+20,Raag Darbari,Hindi,Fiction,bookstore/hindi/fiction/raag_darbari.jpg,https://www.amazon.in/s?k=raag+darbari
+21,Gunahon Ka Devta,Hindi,Fiction,bookstore/hindi/fiction/gunahon_ka_devta.jpg,https://www.amazon.in/s?k=gunahon+ka+devta
+22,Karmabhoomi,Hindi,Fiction,bookstore/hindi/fiction/karmabhoomi.jpg,https://www.amazon.in/s?k=karmabhoomi
+23,Maila Anchal,Hindi,Fiction,bookstore/hindi/fiction/maila_anchal.jpg,https://www.amazon.in/s?k=maila+anchal
+24,Parineeta,Hindi,Fiction,bookstore/hindi/fiction/parineeta.jpg,https://www.amazon.in/s?k=parineeta
+25,Tamas,Hindi,Fiction,bookstore/hindi/fiction/tamas.jpg,https://www.amazon.in/s?k=tamas
+
+26,Vikram Betal,Hindi,Horror,bookstore/hindi/horror/vikram_betal.jpg,https://www.amazon.in/s?k=vikram+betal
+27,Singhasan Battisi,Hindi,Horror,bookstore/hindi/horror/singhasan_battisi.jpg,https://www.amazon.in/s?k=singhasan+battisi
+28,Bhootnath,Hindi,Horror,bookstore/hindi/horror/bhootnath.jpg,https://www.amazon.in/s?k=bhootnath
+29,Kala Jadu,Hindi,Horror,bookstore/hindi/horror/kala_jadu.jpg,https://www.amazon.in/s?k=kala+jadu
+30,Khooni Haveli,Hindi,Horror,bookstore/hindi/horror/khooni_haveli.jpg,https://www.amazon.in/s?k=khooni+haveli
+
+31,Amar Jiban,Bengali,Biography,bookstore/bengali/biography/amarjiban.jpg,https://www.amazon.in/s?k=amar+jiban
+32,Binodini Dasi,Bengali,Biography,bookstore/bengali/biography/binodinidasi.jpg,https://www.amazon.in/s?k=binodini+dasi
+33,Subhas Chandra Bose,Bengali,Biography,bookstore/bengali/biography/subhaschandrabose.jpg,https://www.amazon.in/s?k=subhas+chandra+bose+bengali
+34,Swami Vivekananda,Bengali,Biography,bookstore/bengali/biography/vivekananda.jpg,https://www.amazon.in/s?k=vivekananda+bengali
+35,Jibansmriti,Bengali,Biography,bookstore/bengali/biography/jibansmriti.jpg,https://www.amazon.in/s?k=jibansmriti
+
+36,Pather Panchali,Bengali,Fiction,bookstore/bengali/fiction/patherpanchali.jpg,https://www.amazon.in/s?k=pather+panchali
+37,Gora,Bengali,Fiction,bookstore/bengali/fiction/gora.jpg,https://www.amazon.in/s?k=gora+novel
+38,Devdas,Bengali,Fiction,bookstore/bengali/fiction/devdas.jpg,https://www.amazon.in/s?k=devdas+bengali
+39,Feluda Samagra,Bengali,Fiction,bookstore/bengali/fiction/feluda_samagra.jpg,https://www.amazon.in/s?k=feluda+samagra
+40,Byomkesh Samagra,Bengali,Fiction,bookstore/bengali/fiction/byomkesh_samagra.jpg,https://www.amazon.in/s?k=byomkesh
+
+41,Thakurmar Jhuli,Bengali,Horror,bookstore/bengali/horror/thakurmarjhuli.jpg,https://www.amazon.in/s?k=thakurmar+jhuli
+42,Khagam,Bengali,Horror,bookstore/bengali/horror/khagam.jpg,https://www.amazon.in/s?k=khagam
+43,Nishir Daak,Bengali,Horror,bookstore/bengali/horror/nishirdaak.jpg,https://www.amazon.in/s?k=nishir+daak
+44,Monihara,Bengali,Horror,bookstore/bengali/horror/monihara.jpg,https://www.amazon.in/s?k=monihara
+
+45,Steve Jobs,English,Biography,bookstore/english/biography/stevejobs.jpg,https://www.amazon.in/s?k=steve+jobs
+46,Anne Frank,English,Biography,bookstore/english/biography/annefrank.jpg,https://www.amazon.in/s?k=anne+frank
+47,Malala,English,Biography,bookstore/english/biography/malala.jpg,https://www.amazon.in/s?k=malala
+48,Michelle Obama,English,Biography,bookstore/english/biography/michelleobama.jpg,https://www.amazon.in/s?k=michelle+obama
+49,Albert Einstein,English,Biography,bookstore/english/biography/alberteinstein.jpg,https://www.amazon.in/s?k=albert+einstein
+
+50,Animal Farm,English,Fiction,bookstore/english/fiction/animalfarm.jpg,https://www.amazon.in/s?k=animal+farm
+51,Harry Potter,English,Fiction,bookstore/english/fiction/harrypotter1.jpg,https://www.amazon.in/s?k=harry+potter
+52,The Great Gatsby,English,Fiction,bookstore/english/fiction/thegreatgatsby.jpg,https://www.amazon.in/s?k=the+great+gatsby
+53,The Hobbit,English,Fiction,bookstore/english/fiction/thehobbit.jpg,https://www.amazon.in/s?k=the+hobbit
+54,1984,English,Fiction,bookstore/english/fiction/nineteeneightyfour.jpg,https://www.amazon.in/s?k=1984+novel
+
+55,Dracula,English,Horror,bookstore/english/horror/dracula.jpg,https://www.amazon.in/s?k=dracula
+56,Frankenstein,English,Horror,bookstore/english/horror/frankenstein.jpg,https://www.amazon.in/s?k=frankenstein
+57,The Shining,English,Horror,bookstore/english/horror/theshining.jpg,https://www.amazon.in/s?k=the+shining
+58,The Exorcist,English,Horror,bookstore/english/horror/theexorcist.jpg,https://www.amazon.in/s?k=the+exorcist
+59,Pet Sematary,English,Horror,bookstore/english/horror/petsematary.jpg,https://www.amazon.in/s?k=pet+sematary
+60,Prince Harry,English,Biography,bookstore/english/biography/princeharry.jpg,https://www.amazon.in/s?k=prince+harry
+61,George Washington,English,Biography,bookstore/english/biography/georgewashington.jpg,https://www.amazon.in/s?k=george+washington
+62,John D Rockefeller,English,Biography,bookstore/english/biography/johnrockefeller.jpg,https://www.amazon.in/s?k=john+rockefeller
+63,Maya Angelou,English,Biography,bookstore/english/biography/mayaangelou.jpg,https://www.amazon.in/s?k=maya+angelou
+64,Trevor Noah,English,Biography,bookstore/english/biography/trevornoah.jpg,https://www.amazon.in/s?k=trevor+noah
+65,Louis Zamperini,English,Biography,bookstore/english/biography/louiszamperini.jpg,https://www.amazon.in/s?k=louis+zamperini
+66,Henrietta Lacks,English,Biography,bookstore/english/biography/henriettalacks.jpg,https://www.amazon.in/s?k=henrietta+lacks
+67,Jeannette Walls,English,Biography,bookstore/english/biography/jeannettewalls.jpg,https://www.amazon.in/s?k=jeannette+walls
+
+68,A Tale of Two Cities,English,Fiction,bookstore/english/fiction/ataleoftwocities.jpg,https://www.amazon.in/s?k=a+tale+of+two+cities
+69,Gone With The Wind,English,Fiction,bookstore/english/fiction/gonewiththewind.jpg,https://www.amazon.in/s?k=gone+with+the+wind
+70,Jane Eyre,English,Fiction,bookstore/english/fiction/janeeyre.jpg,https://www.amazon.in/s?k=jane+eyre
+71,Lord of the Rings,English,Fiction,bookstore/english/fiction/lordoftherings.jpg,https://www.amazon.in/s?k=lord+of+the+rings
+72,Narnia,English,Fiction,bookstore/english/fiction/narnia.jpg,https://www.amazon.in/s?k=narnia
+73,Sherlock Holmes,English,Fiction,bookstore/english/fiction/sherlockholmes.jpg,https://www.amazon.in/s?k=sherlock+holmes
+74,The Catcher in the Rye,English,Fiction,bookstore/english/fiction/thecatcherintherye.jpg,https://www.amazon.in/s?k=the+catcher+in+the+rye
+75,The Da Vinci Code,English,Fiction,bookstore/english/fiction/thedavincicode.jpg,https://www.amazon.in/s?k=the+da+vinci+code
+76,To Kill a Mockingbird,English,Fiction,bookstore/english/fiction/tokillamockingbird.jpg,https://www.amazon.in/s?k=to+kill+a+mockingbird
+77,Wuthering Heights,English,Fiction,bookstore/english/fiction/wutheringheights.jpg,https://www.amazon.in/s?k=wuthering+heights
+
+78,Flowers in the Attic,English,Horror,bookstore/english/horror/flowersintheattic.jpg,https://www.amazon.in/s?k=flowers+in+the+attic
+79,Haunting of Hill House,English,Horror,bookstore/english/horror/hauntingofhillhouse.jpg,https://www.amazon.in/s?k=haunting+of+hill+house
+80,House of Leaves,English,Horror,bookstore/english/horror/houseofleaves.jpg,https://www.amazon.in/s?k=house+of+leaves
+81,Lisey's Story,English,Horror,bookstore/english/horror/liseystory.jpg,https://www.amazon.in/s?k=lisey+story
+82,Rosemary's Baby,English,Horror,bookstore/english/horror/rosemarybaby.jpg,https://www.amazon.in/s?k=rosemary+baby
+83,Salem's Lot,English,Horror,bookstore/english/horror/salemslot.jpg,https://www.amazon.in/s?k=salems+lot
+84,Silence of the Lambs,English,Horror,bookstore/english/horror/silenceofthelambs.jpg,https://www.amazon.in/s?k=silence+of+the+lambs
+85,Superstitious,English,Horror,bookstore/english/horror/superstitious.jpg,https://www.amazon.in/s?k=superstitious
+86,The Woman in Black,English,Horror,bookstore/english/horror/womaninblack.jpg,https://www.amazon.in/s?k=woman+in+black
+
+87,Aparajito,Bengali,Fiction,bookstore/bengali/fiction/aparajito.jpg,https://www.amazon.in/s?k=aparajito
+88,Aranyak,Bengali,Fiction,bookstore/bengali/fiction/aranyak.jpg,https://www.amazon.in/s?k=aranyak
+89,Chokher Bali,Bengali,Fiction,bookstore/bengali/fiction/chokherbali.jpg,https://www.amazon.in/s?k=chokher+bali
+90,Ghare Baire,Bengali,Fiction,bookstore/bengali/fiction/gharebaire.jpg,https://www.amazon.in/s?k=ghare+baire
+91,Shri Kanta,Bengali,Fiction,bookstore/bengali/fiction/srikanta.jpg,https://www.amazon.in/s?k=srikanta
+92,Titas Ekti Nadir Naam,Bengali,Fiction,bookstore/bengali/fiction/titasektinadirnaam.jpg,https://www.amazon.in/s?k=titas+ekti+nadir+naam
+93,Ganadevata,Bengali,Fiction,bookstore/bengali/fiction/ganadevata.jpg,https://www.amazon.in/s?k=ganadevata
+94,Palli Samaj,Bengali,Fiction,bookstore/bengali/fiction/pallisamaj.jpg,https://www.amazon.in/s?k=palli+samaj
+95,Hazar Churashir Maa,Bengali,Fiction,bookstore/bengali/fiction/hajarchurashirma.jpg,https://www.amazon.in/s?k=hazar+churashir+maa
+
+96,Adbhuture Series,Bengali,Horror,bookstore/bengali/horror/adbhutureseries.jpg,https://www.amazon.in/s?k=adbhuture
+97,Aloukik Golpo Samagra,Bengali,Horror,bookstore/bengali/horror/aloukikgolposamagra.jpg,https://www.amazon.in/s?k=aloukik+golpo
+98,Anath Babur Bhoy,Bengali,Horror,bookstore/bengali/horror/anathbaburbhoy.jpg,https://www.amazon.in/s?k=anath+babur+bhoy
+99,Bhooter Diary,Bengali,Horror,bookstore/bengali/horror/bhooterdiary.jpg,https://www.amazon.in/s?k=bhooter+diary
+100,Bhooter Golpo,Bengali,Horror,bookstore/bengali/horror/bhootergolpo.jpg,https://www.amazon.in/s?k=bhooter+golpo
+101,Bhoot Samagra,Bengali,Horror,bookstore/bengali/horror/bhootsamagra.jpg,https://www.amazon.in/s?k=bhoot+samagra
+102,Bhoutik Golpo Samagra,Bengali,Horror,bookstore/bengali/horror/bhoutikgolposamagra.jpg,https://www.amazon.in/s?k=bhoutik+golpo
+103,Bhoutik Kahini,Bengali,Horror,bookstore/bengali/horror/bhoutikkahini.jpg,https://www.amazon.in/s?k=bhoutik+kahini
+104,Chhayamoy,Bengali,Horror,bookstore/bengali/horror/chhayamoy.jpg,https://www.amazon.in/s?k=chhayamoy
+105,Kankabati,Bengali,Horror,bookstore/bengali/horror/kankabati.jpg,https://www.amazon.in/s?k=kankabati
+106,Monihara,Bengali,Horror,bookstore/bengali/horror/monihara.jpg,https://www.amazon.in/s?k=monihara
+107,Nishir Daak,Bengali,Horror,bookstore/bengali/horror/nishirdaak.jpg,https://www.amazon.in/s?k=nishir+daak
+108,Rahasya Mayi,Bengali,Horror,bookstore/bengali/horror/rahasyamayi.jpg,https://www.amazon.in/s?k=rahasyamayi
+
+109,Bangla Academy Charitabhidhan,Bengali,Biography,bookstore/bengali/biography/banglaacademycharitabhidhan.jpg,https://www.amazon.in/s?k=bangla+academy+charitabhidhan
+110,Gurucharan Mahalanobis,Bengali,Biography,bookstore/bengali/biography/gurucharanmahalanobis.jpg,https://www.amazon.in/s?k=gurucharan+mahalanobis
+111,Ishwar Chandra Vidyasagar,Bengali,Biography,bookstore/bengali/biography/ishwarchandravidyasagar.jpg,https://www.amazon.in/s?k=vidyasagar
+112,Jibon Charit Mala,Bengali,Biography,bookstore/bengali/biography/jiboncharitmala.jpg,https://www.amazon.in/s?k=jibon+charit+mala
+113,Pransakha Vivekananda,Bengali,Biography,bookstore/bengali/biography/pransakhavivekananda.jpg,https://www.amazon.in/s?k=pransakha+vivekananda
+114,Unfinished Memoirs,Bengali,Biography,bookstore/bengali/biography/unfinishedmemoirs.jpg,https://www.amazon.in/s?k=unfinished+memoirs
+115,Syed Mujtaba Ali,Bengali,Biography,bookstore/bengali/biography/syedmujtabaali.jpg,https://www.amazon.in/s?k=syed+mujtaba+ali
+116,Self Written Biography,Bengali,Biography,bookstore/bengali/biography/svalikhitajivani.jpg,https://www.amazon.in/s?k=svalikhita+jivani
+117,Copy of Autobiography by Gurucharan,Bengali,Biography,bookstore/bengali/biography/utobiography_gurucharan.jpg,https://www.amazon.in/s?k=autobiography+gurucharan
+
+118,Ahasya Romanch,Hindi,Horror,bookstore/hindi/horror/ahasya_romanch.jpg,https://www.amazon.in/s?k=ahasya+romanch
+119,Alif Laila,Hindi,Horror,bookstore/hindi/horror/alif_laila.jpg,https://www.amazon.in/s?k=alif+laila
+120,Bhayanak Raatein,Hindi,Horror,bookstore/hindi/horror/bhayanak_raatein.jpg,https://www.amazon.in/s?k=bhayanak+raatein
+121,Bhoot Pret Kahaniyan,Hindi,Horror,bookstore/hindi/horror/bhoot_pret_kahaniyan.jpg,https://www.amazon.in/s?k=bhoot+pret+kahaniyan
+122,Bhooton Ka Ghar,Hindi,Horror,bookstore/hindi/horror/bhooton_ka_ghar.jpg,https://www.amazon.in/s?k=bhooton+ka+ghar
+123,Chandrakanta Santati,Hindi,Horror,bookstore/hindi/horror/chandrakanta_santati.jpg,https://www.amazon.in/s?k=chandrakanta+santati
+124,Darawani Kahaniyan,Hindi,Horror,bookstore/hindi/horror/darawani_kahaniyan.jpg,https://www.amazon.in/s?k=darawani+kahaniyan
+125,Rahasyamayi Kahaniyan,Hindi,Horror,bookstore/hindi/horror/rahasyamayi_kahaniyan.jpg,https://www.amazon.in/s?k=rahasyamayi+kahaniyan
+126,Tilismi Duniya,Hindi,Horror,bookstore/hindi/horror/tilismi_duniya.jpg,https://www.amazon.in/s?k=tilismi+duniya
+
+127,Aapka Bunty,Hindi,Fiction,bookstore/hindi/fiction/aapka_bunty.jpg,https://www.amazon.in/s?k=aapka+bunty
+128,Adha Gaon,Hindi,Fiction,bookstore/hindi/fiction/adha_gaon.jpg,https://www.amazon.in/s?k=adha+gaon
+129,Anandmath,Hindi,Fiction,bookstore/hindi/fiction/anandmath.jpg,https://www.amazon.in/s?k=anandmath
+130,Chitralekha,Hindi,Fiction,bookstore/hindi/fiction/chitralekha.jpg,https://www.amazon.in/s?k=chitralekha
+131,Chokher Bali,Hindi,Fiction,bookstore/hindi/fiction/chokher_bali.jpg,https://www.amazon.in/s?k=chokher+bali
+132,Gora,Hindi,Fiction,bookstore/hindi/fiction/gora.jpg,https://www.amazon.in/s?k=gora
+133,Gunaahon Ka Devta,Hindi,Fiction,bookstore/hindi/fiction/gunahon_ka_devta.jpg,https://www.amazon.in/s?k=gunahon+ka+devta
+134,Noukadubi,Hindi,Fiction,bookstore/hindi/fiction/noukadubi.jpg,https://www.amazon.in/s?k=noukadubi
+135,Sevasadan,Hindi,Fiction,bookstore/hindi/fiction/sevasadan.jpg,https://www.amazon.in/s?k=sevasadan
+
+136,Bangal Academy Biography,Bengali,Biography,bookstore/bengali/biography/banglaacademycharitabhidhan.jpg,https://www.amazon.in/s?k=bangla+academy
+137,Twenty Great Bengalis,Bengali,Biography,bookstore/bengali/biography/twentygreatbengalis.jpg,https://www.amazon.in/s?k=twenty+great+bengalis
+138,Amar Jibon Part 2,Bengali,Biography,bookstore/bengali/biography/amarjiban.jpg,https://www.amazon.in/s?k=amar+jiban
+
+139,Stephen King,English,Horror,bookstore/english/horror/stephenking.jpg,https://www.amazon.in/s?k=stephen+king
+140,House of Leaves 2,English,Horror,bookstore/english/horror/houseofleaves.jpg,https://www.amazon.in/s?k=house+of+leaves
+141,Pet Sematary 2,English,Horror,bookstore/english/horror/petsematary.jpg,https://www.amazon.in/s?k=pet+sematary
+142,Salem Slot 2,English,Horror,bookstore/english/horror/salemslot.jpg,https://www.amazon.in/s?k=salems+lot
+143,The Shining 2,English,Horror,bookstore/english/horror/theshining.jpg,https://www.amazon.in/s?k=the+shining
+
+144,Byomkesh Samagra Vol 2,Bengali,Fiction,bookstore/bengali/fiction/byomkesh_samagra.jpg,https://www.amazon.in/s?k=byomkesh
+145,Feluda Samagra Vol 2,Bengali,Fiction,bookstore/bengali/fiction/feluda_samagra.jpg,https://www.amazon.in/s?k=feluda
+146,Kakababu Samagra,Bengali,Fiction,bookstore/bengali/fiction/kakababusamagra.jpg,https://www.amazon.in/s?k=kakababu
+147,Himu Samagra,Bengali,Fiction,bookstore/bengali/fiction/himusamagra.jpg,https://www.amazon.in/s?k=himu
+148,Misir Ali Samagra,Bengali,Fiction,bookstore/bengali/fiction/misiralisamagra.jpg,https://www.amazon.in/s?k=misir+ali
+149,Ganadevata Part 2,Bengali,Fiction,bookstore/bengali/fiction/ganadevata.jpg,https://www.amazon.in/s?k=ganadevata
+150,Titash Ekti Nadir Naam 2,Bengali,Fiction,bookstore/bengali/fiction/titasektinadirnaam.jpg,https://www.amazon.in/s?k=titas

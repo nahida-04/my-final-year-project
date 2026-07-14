@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Recommendation System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1 class="title">📚 Book Recommendation System</h1>
+
+    <div class="controls">
+        <select id="language">
+            <option value="" disabled selected>Select Language</option>
+            <option value="Hindi">Hindi</option>
+            <option value="English">English</option>
+            <option value="Bengali">Bengali</option>
+        </select>
+
+        <select id="genre">
+            <option value="" disabled selected>Select Genre</option>
+            <option value="Biography">Biography</option>
+            <option value="Fiction">Fiction</option>
+            <option value="Horror">Horror</option>
+        </select>
+
+        <select id="book">
+            <option value="">Select Book (Optional)</option>
+        </select>
+
+        <button onclick="getRecommendations()">Recommend</button>
+    </div>
+
+    <!-- SELECTED BOOK -->
+    <div id="selected-book-container"></div>
+
+    <!-- SIMILAR BOOKS -->
+    <h2 id="similar-heading" style="display:none;">Similar Books</h2>
+
+    <div id="results" class="similar-books-grid"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
